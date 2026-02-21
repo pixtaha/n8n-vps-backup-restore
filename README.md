@@ -1,7 +1,9 @@
 # n8n Workflows Backup & Restore (Docker · Self-Hosted VPS)
+
 ## Related
 
-- [n8n-telegram-whatsapp-message-normalizer](https://github.com/pixtaha/n8n-telegram-whatsapp-message-normalizer) — Unified message normalizer for Telegram & WhatsApp
+- [n8n-vps-backup](https://github.com/pixtaha/n8n-vps-backup) — Export workflows from n8n Docker instance to local machine
+- 
 ## Scope
 
 This document covers two operations:
