@@ -1,9 +1,5 @@
 # n8n Workflows Backup & Restore (Docker · Self-Hosted VPS)
 
-## Related
-
-- [n8n-vps-backup](https://github.com/pixtaha/n8n-vps-backup) — Export workflows from n8n Docker instance to local machine
-- 
 ## Scope
 
 This document covers two operations:
@@ -218,3 +214,7 @@ To keep versioned backups:
 ```bash
 n8n export:workflow --all --output=/home/node/workflows_2026-02-21.json
 ```
+---
+## Related
+
+- [n8n-vps-backup](https://github.com/pixtaha/n8n-vps-backup) — Export workflows from n8n Docker instance to local machine
